@@ -1,0 +1,1 @@
+javascript:(function(){    const popup = window.open('about:blank', '_blank', 'width=600, height=400, top=100, right=100');    if (popup) {        popup.location.replace('https://now.gg');    }})();
