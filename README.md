@@ -1,1 +1,1 @@
-this update was wirited on 6/27/2024:
+this update was wirited on 6/27/2024: new code alert, it's a list of commands in bookmarklet code guys pls tell me more commands I can put in the bookmarklet, by the way if you get confused when the prompt pop-up you are apos to type in the number you see next to the commands and then it will do what you ask for.
